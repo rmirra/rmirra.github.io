@@ -10,7 +10,7 @@ email: rr30@illinois.edu
 #description: > # the ">" symbol means to ignore newlines until "footer_text:"
  # A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>
+  
 
 icon: 👩‍🦱 # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
