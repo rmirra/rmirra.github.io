@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm Rajalaxmi Rajagopalan, an incoming Ph.D. student to the Electrical and Computer Engineering Department at the University of Illinois - Urbana Champaign (UIUC).
+I'm an incoming Ph.D. student to the Electrical and Computer Engineering Department at the University of Illinois - Urbana Champaign (UIUC).
 
 I will be working with [Dr. Romit Roy Choudhury](http://croy.web.engr.illinois.edu/) in the Systems and Networking Research Group [(SyNRG)](https://synrg.csl.illinois.edu/)
 
