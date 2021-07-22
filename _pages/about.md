@@ -23,6 +23,7 @@ I will be working with [Dr. Romit Roy Choudhury](http://croy.web.engr.illinois.e
 
 My research interest is in wireless communications and networking. 
 
+### CV
 
-
+Here's my [CV](https://drive.google.com/file/d/1lHheSbQViTnTpw2DlUnpNNlI6l8abckY/view?usp=sharing).
 
