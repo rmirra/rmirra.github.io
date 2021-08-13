@@ -1,6 +1,8 @@
 ---
 deployment:
-  tasks:
-    - export DEPLOYPATH=/home/rrajalaxmi/public_html/
-    - /bin/cp -R * $DEPLOYPATH
+      tasks:
+        - export DEPLOYPATH=/home/rrajalaxmi/public_html  # Add /<app_folder> if required
+        - /bin/cp -r * $DEPLOYPATH                        #copy all recursively to $DEPLOYPATH
+        
+        
     
